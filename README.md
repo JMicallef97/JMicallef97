@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @JMicallef97!
-- I do software development as a hobby. I've written several applications with C#.
+- Hi, I’m Jacob Micallef!
+- I do software development as a hobby. I've written several programs with C# and C#-related libraries, such as Junkyard War (https://store.steampowered.com/app/2056570/Junkyard_War/).
