@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @JMicallef97!
+- I do software development as a hobby. I've written several applications with C#.
